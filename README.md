@@ -3,3 +3,5 @@ Insertion Sort
 Selection Sort  
 Merge Sort  
 Quick Sort  
+  
+Binary Search Algorithm  
