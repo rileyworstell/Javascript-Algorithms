@@ -5,4 +5,4 @@ Merge Sort
 Quick Sort  
   
 Binary Search Algorithm  
-Binary Tree Node Depth Solver
+Binary Tree Node Depth Solver, Branch Sums solver,
