@@ -8,3 +8,7 @@ Bubble Sort
   
 Binary Search Algorithm  
 Binary Tree Node Depth Solver, Branch Sums solver,
+  
+  
+Three Number Sum  
+Two Number Sum  
