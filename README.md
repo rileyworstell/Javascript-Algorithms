@@ -14,5 +14,8 @@ Three Number Sum
 Two Number Sum  
 Validate Subsequences  
 Smallest Difference  
+Is Monotonic  
+Move Element To End  
+Spiral Traverse  
 
 
