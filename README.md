@@ -17,5 +17,9 @@ Smallest Difference
 Is Monotonic  
 Move Element To End  
 Spiral Traverse  
+Longest Peak  
+Array of Products  
+First Duplicate Value  
+Four Number Sum  
 
 
