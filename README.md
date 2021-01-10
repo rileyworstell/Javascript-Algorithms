@@ -1,11 +1,11 @@
 # Algorithms Implemented in Javascript
 
 # Sorting  
-Insertion Sort  
-Selection Sort  
-Merge Sort  
-Quick Sort  
 Bubble Sort  
+Insertion Sort  
+Merge Sort  
+Selection Sort  
+Quick Sort  
 
   
 Binary Search Algorithm  
@@ -29,4 +29,5 @@ Validate Subsequences
 # Strings
 Caesar Cipher Encryptor  
 Is Palindrome  
+Run Length Encoding  
 
