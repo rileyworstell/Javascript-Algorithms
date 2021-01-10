@@ -1,4 +1,6 @@
 # Algorithms Implemented in Javascript
+
+# Sorting  
 Insertion Sort  
 Selection Sort  
 Merge Sort  
@@ -24,7 +26,7 @@ Two Number Sum
 Validate Subsequences  
 
 
-# STRINGS
+# Strings
 Caesar Cipher Encryptor  
 Is Palindrome  
 
