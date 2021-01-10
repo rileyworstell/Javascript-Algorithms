@@ -9,17 +9,22 @@ Bubble Sort
 Binary Search Algorithm  
 Binary Tree Node Depth Solver, Branch Sums solver,
   
-  
-Three Number Sum  
-Two Number Sum  
-Validate Subsequences  
-Smallest Difference  
-Is Monotonic  
-Move Element To End  
-Spiral Traverse  
-Longest Peak  
+
+# Arrays
 Array of Products  
 First Duplicate Value  
 Four Number Sum  
+Is Monotonic  
+Longest Peak  
+Move Element To End  
+Smallest Difference  
+Spiral Traverse  
+Three Number Sum  
+Two Number Sum  
+Validate Subsequences  
 
+
+# STRINGS
+Caesar Cipher Encryptor  
+Is Palindrome  
 
