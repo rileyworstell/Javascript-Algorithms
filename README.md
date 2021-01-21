@@ -29,5 +29,6 @@ Validate Subsequences
 # Strings
 Caesar Cipher Encryptor  
 Is Palindrome  
+Longest Palindromic Substring
 Run Length Encoding  
 
