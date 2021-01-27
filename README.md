@@ -31,6 +31,7 @@ Caesar Cipher Encryptor
 Group Anagrams
 Is Palindrome  
 Longest Palindromic Substring
+Longest Substring Without Duplication
 Run Length Encoding  
 Valid IP Addresses
 
