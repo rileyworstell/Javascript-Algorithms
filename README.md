@@ -25,6 +25,9 @@ Three Number Sum
 Two Number Sum  
 Validate Subsequences  
 
+# Stacks
+Balanced Brackets  
+Min Max Construction  
 
 # Strings
 Caesar Cipher Encryptor  
@@ -33,5 +36,6 @@ Is Palindrome
 Longest Palindromic Substring
 Longest Substring Without Duplication
 Run Length Encoding  
-Valid IP Addresses
+Valid IP Addresses  
+//UnderScorify Substring  
 
