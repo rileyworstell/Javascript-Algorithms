@@ -1,15 +1,5 @@
 # Algorithms Implemented in Javascript
 
-# Sorting  
-Bubble Sort  
-Insertion Sort  
-Merge Sort  
-Selection Sort  
-Quick Sort  
-
-  
-Binary Search Algorithm  
-Binary Tree Node Depth Solver, Branch Sums solver,
   
 
 # Arrays
@@ -25,6 +15,18 @@ Three Number Sum
 Two Number Sum  
 Validate Subsequences  
 
+# Searching
+Binary Search Algorithm   
+Binary Tree Node Depth Solver  
+Branch Sums solver  
+
+# Sorting  
+Bubble Sort  
+Insertion Sort  
+Merge Sort  
+Selection Sort  
+Quick Sort  
+
 # Stacks
 Balanced Brackets  
 Min Max Construction  
@@ -37,5 +39,5 @@ Longest Palindromic Substring
 Longest Substring Without Duplication
 Run Length Encoding  
 Valid IP Addresses  
-//UnderScorify Substring  
+UnderScorify Substring  
 
