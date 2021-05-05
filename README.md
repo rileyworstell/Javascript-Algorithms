@@ -4,6 +4,7 @@
 
 # Arrays
 Array of Products  
+Contains Common Item  
 First Duplicate Value  
 Four Number Sum  
 Is Monotonic  
@@ -40,4 +41,6 @@ Longest Substring Without Duplication
 Run Length Encoding  
 Valid IP Addresses  
 UnderScorify Substring  
+
+The javascriptCheatSheet.js file is just a quick explanation of how to do simple operations in javascript, just if you forget any of them! =)  
 
