@@ -45,6 +45,9 @@ Run Length Encoding
 Valid IP Addresses  
 UnderScorify Substring  
 
+# Data Structures   
+Linked List  
+
 ## Other
 
 The javascriptCheatSheet.js file is just a quick explanation of how to do simple operations in javascript, just if you forget any of them! =)  
