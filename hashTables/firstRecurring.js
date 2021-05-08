@@ -15,4 +15,7 @@ const firstRecurring = (arr) => {
 }
 
 let arr = [2, 5, 1, 22, 3, 56, 11, 212, 4, 2];
+let arr2 = ['a', 'b', 'c', 'd', 'e', 'b', 'c'];
 console.log(firstRecurring(arr));
+console.log(firstRecurring(arr2));
+
