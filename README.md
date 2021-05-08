@@ -16,6 +16,9 @@ Three Number Sum
 Two Number Sum  
 Validate Subsequences  
 
+# Hash Tables  
+First Recurring  
+
 # Searching
 Binary Search Algorithm   
 Binary Tree Node Depth Solver  
@@ -41,6 +44,8 @@ Longest Substring Without Duplication
 Run Length Encoding  
 Valid IP Addresses  
 UnderScorify Substring  
+
+## Other
 
 The javascriptCheatSheet.js file is just a quick explanation of how to do simple operations in javascript, just if you forget any of them! =)  
 

@@ -92,3 +92,27 @@ x.sort((a, b) => a.year - b.year);
 // comparing string values (via alphabetically), The conditional below says if the a value is higher return 1 if not return -1
 x.sort((a, b) => (a.type.toLowerCase() > b.type.toLowerCase()) ? 1 : -1);
 
+// Reverse a String
+
+const reverseString = (someString) => {
+    if (typeof someString === 'string') {
+    someString = someString.split('');
+    someString.reverse();
+    return someString.join('');
+    }
+    return 'not a string friend';
+    // or just return someString.split('').reverse().join('');
+    // or even return [...someString].reverese().join('');
+}
+
+
+console.log(reverseString('hello riley'));
+console.log(reverseString(33));
+
+
+const mergeArrays = (arr1, arr2) => {
+    arr2.map(x => arr1.push(x));
+    return arr1.sort((a, b) => a - b);
+}
+console.log(mergeArrays([1, 3, 5], [-3, 2, 4, 7]));
+
