@@ -48,6 +48,8 @@ UnderScorify Substring
 # Data Structures   
 Hash Table  
 Linked List  
+Stack  
+Queue  
 
 ## Other
 
