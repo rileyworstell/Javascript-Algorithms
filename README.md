@@ -46,6 +46,7 @@ Valid IP Addresses
 UnderScorify Substring  
 
 # Data Structures   
+Binary Tree  
 Hash Table  
 Linked List  
 Stack  
