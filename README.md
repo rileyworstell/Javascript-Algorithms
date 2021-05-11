@@ -47,6 +47,8 @@ UnderScorify Substring
 
 # Data Structures   
 Binary Tree  
+Graphs  
+Graphs Expressed  
 Hash Table  
 Linked List  
 Stack  
