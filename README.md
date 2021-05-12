@@ -19,6 +19,10 @@ Validate Subsequences
 # Hash Tables  
 First Recurring  
 
+# Recursion  
+Factorial  
+Fibonacci  
+
 # Searching
 Binary Search Algorithm   
 Binary Tree Node Depth Solver  
