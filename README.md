@@ -47,6 +47,7 @@ UnderScorify Substring
 
 # Data Structures   
 Binary Tree  
+Doubly Liked List  
 Graphs  
 Graphs Expressed  
 Hash Table  
