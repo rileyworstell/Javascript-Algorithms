@@ -22,6 +22,7 @@ First Recurring
 # Recursion  
 Factorial  
 Fibonacci  
+Is Palindrome  
 
 # Searching
 Binary Search Algorithm   
