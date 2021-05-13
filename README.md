@@ -23,6 +23,7 @@ First Recurring
 Factorial  
 Fibonacci  
 Is Palindrome  
+Reverse String  
 
 # Searching
 Binary Search Algorithm   
