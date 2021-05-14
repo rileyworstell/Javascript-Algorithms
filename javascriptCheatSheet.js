@@ -92,6 +92,10 @@ x.sort((a, b) => a.year - b.year);
 // comparing string values (via alphabetically), The conditional below says if the a value is higher return 1 if not return -1
 x.sort((a, b) => (a.type.toLowerCase() > b.type.toLowerCase()) ? 1 : -1);
 
+
+// Create a Length of a value
+let x = [...Array(5).keys()].map(() => 0); // [0, 0, 0, 0, 0]
+
 // Reverse a String
 
 const reverseString = (someString) => {
