@@ -23,6 +23,7 @@ First Recurring
 Factorial  
 Fibonacci  
 Is Palindrome  
+Product Sum  
 Reverse String  
 
 # Searching
