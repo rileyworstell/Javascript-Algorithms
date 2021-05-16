@@ -20,12 +20,14 @@ Validate Subsequences
 First Recurring  
 
 # Recursion  
+Get Permutations  
 Factorial  
 Fibonacci  
 Is Palindrome  
 Phone Number Mnemonics  
 Product Sum  
 Reverse String  
+Staircase Traversal  
 
 # Searching
 Binary Search Algorithm   
