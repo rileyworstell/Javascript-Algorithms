@@ -16,6 +16,9 @@ Three Number Sum
 Two Number Sum  
 Validate Subsequences  
 
+# Greedy Algorithms  
+Class Photos  
+
 # Hash Tables  
 First Recurring  
 
