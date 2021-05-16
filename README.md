@@ -54,6 +54,7 @@ Min Max Construction
 
 # Strings
 Caesar Cipher Encryptor  
+First Non-Repeating Character  
 Group Anagrams
 Is Palindrome  
 Longest Palindromic Substring
