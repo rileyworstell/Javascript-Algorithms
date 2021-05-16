@@ -21,6 +21,7 @@ First Recurring
 
 # Linked Lists  
 Remove Duplicates  
+Remove Kth Node  
 
 # Recursion  
 Get Permutations  
