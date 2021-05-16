@@ -19,6 +19,9 @@ Validate Subsequences
 # Hash Tables  
 First Recurring  
 
+# Linked Lists  
+Remove Duplicates  
+
 # Recursion  
 Get Permutations  
 Factorial  
