@@ -18,6 +18,7 @@ Validate Subsequences
 
 # Greedy Algorithms  
 Class Photos  
+Minimum Waiting Time  
 
 # Hash Tables  
 First Recurring  
