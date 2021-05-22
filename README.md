@@ -18,6 +18,9 @@ Three Number Sum
 Two Number Sum  
 Validate Subsequences  
 
+# Binary Trees  
+Branch Sums  
+
 # Greedy Algorithms  
 Class Photos  
 Minimum Waiting Time  
