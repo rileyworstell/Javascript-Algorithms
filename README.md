@@ -20,6 +20,7 @@ Validate Subsequences
 
 # Binary Trees  
 Branch Sums  
+Find Successor  
 
 # Greedy Algorithms  
 Class Photos  
