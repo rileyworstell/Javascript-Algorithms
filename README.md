@@ -18,6 +18,9 @@ Three Number Sum
 Two Number Sum  
 Validate Subsequences  
 
+# Binary Search Tree  
+Find Kth Value  
+
 # Binary Trees  
 Branch Sums  
 Find Successor  
