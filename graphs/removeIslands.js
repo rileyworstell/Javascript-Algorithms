@@ -6,6 +6,8 @@ white. An island is defined as any number of 1s that are horizontally
 or vertically adjacent (not diagonal) that don't touch the border.
 */
 
+
+// O(wh) time & O(wh) space - w and h are width and height of matrix
 function removeIslands(matrix) {
     for (let i = 0; i < matrix.length-1; i++) {
         for (let j = 0; j < matrix[0].length-1; j++) {
