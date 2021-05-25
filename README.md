@@ -25,6 +25,9 @@ Find Kth Value
 Branch Sums  
 Find Successor  
 
+# Graphs  
+Remove Islands  
+
 # Greedy Algorithms  
 Class Photos  
 Minimum Waiting Time  
