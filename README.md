@@ -31,6 +31,7 @@ Remove Islands
 # Greedy Algorithms  
 Class Photos  
 Minimum Waiting Time  
+Tandem Bicycle  
 
 # Hash Tables  
 First Recurring  
