@@ -29,6 +29,7 @@ Branch Sums
 Find Successor  
 
 # Dynamic Programming  
+Minimum Number Of Coins For Change  
 Water Area  
 
 # Graphs  
