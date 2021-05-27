@@ -43,6 +43,7 @@ Tandem Bicycle
 First Recurring  
 
 # Linked Lists  
+Find Loop  
 Remove Duplicates  
 Remove Kth Node  
 Sum Of Linked Lists  
