@@ -20,11 +20,15 @@ Validate Subsequences
 
 # Binary Search Tree  
 Find Kth Value  
+Min Height BST  
+Same BST  
 
 # Binary Trees  
 Branch Sums  
 Find Successor  
-Same BST  
+
+# Dynamic Programming  
+Water Area  
 
 # Graphs  
 Remove Islands  
