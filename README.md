@@ -14,6 +14,7 @@ Move Element To End
 Non Constructible Change  
 Smallest Difference  
 Spiral Traverse  
+Sudoku Solver  
 Three Number Sum  
 Two Number Sum  
 Validate Subsequences  
