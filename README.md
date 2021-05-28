@@ -81,8 +81,8 @@ Caesar Cipher Encryptor
 First Non-Repeating Character  
 Group Anagrams
 Is Palindrome  
-Longest Palindromic Substring
-Longest Substring Without Duplication
+Longest Palindromic Substring  
+Longest Substring Without Duplication  
 Run Length Encoding  
 Valid IP Addresses  
 UnderScorify Substring  
