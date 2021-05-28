@@ -19,6 +19,7 @@ Two Number Sum
 Validate Subsequences  
 
 # Binary Search Tree  
+Binary Search Tree Construction  
 Find Kth Value  
 Min Height BST  
 Same BST  
@@ -86,6 +87,9 @@ Longest Substring Without Duplication
 Run Length Encoding  
 Valid IP Addresses  
 UnderScorify Substring  
+
+# Tries  
+Suffix Trie Construction  
 
 # Data Structures   
 Binary Tree  
