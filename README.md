@@ -27,6 +27,7 @@ Reconstruct BST
 # Binary Trees  
 Branch Sums  
 Find Successor  
+Height Balanced Binary Tree  
 
 # Dynamic Programming  
 Minimum Number Of Coins For Change  
