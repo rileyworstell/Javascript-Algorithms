@@ -79,6 +79,7 @@ Quick Sort
 # Stacks
 Balanced Brackets  
 Min Max Construction  
+Sunset Views  
 
 # Strings
 Caesar Cipher Encryptor  
