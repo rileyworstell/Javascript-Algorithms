@@ -52,6 +52,7 @@ First Recurring
 Find Loop  
 Remove Duplicates  
 Remove Kth Node  
+Reverse Linked List  
 Sum Of Linked Lists  
 
 # Recursion  
