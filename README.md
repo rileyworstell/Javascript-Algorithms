@@ -10,6 +10,7 @@ Four Number Sum
 Is Monotonic  
 Longest Peak  
 Merge Overlapping Intervals  
+Minimum Characters For Words  
 Move Element To End  
 Non Constructible Change  
 Smallest Difference  
