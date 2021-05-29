@@ -90,7 +90,7 @@ Longest Palindromic Substring
 Longest Substring Without Duplication  
 Run Length Encoding  
 Valid IP Addresses  
-UnderScorify Substring  
+UnderScorify Substring   
 
 # Tries  
 Suffix Trie Construction  
