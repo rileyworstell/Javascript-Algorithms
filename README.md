@@ -33,6 +33,7 @@ Find Successor
 Height Balanced Binary Tree  
 
 # Dynamic Programming  
+Levenshtein Distance  
 Minimum Number Of Coins For Change  
 Water Area  
 
