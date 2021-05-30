@@ -50,6 +50,7 @@ First Recurring
 
 # Linked Lists  
 Find Loop  
+Merge Linked List  
 Remove Duplicates  
 Remove Kth Node  
 Reverse Linked List  
